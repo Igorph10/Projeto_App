@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "projeto_app",
-    "slug": "projeto_app",
+    "name": "DevCard",
+    "slug": "Projeto_DevCard",
+    "scheme": "DevCard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
